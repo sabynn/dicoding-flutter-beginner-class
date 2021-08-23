@@ -1,5 +1,5 @@
 # Wisata Bangka
-An app showing some beautiful places in Bangka
+An app showing some beautiful places in Bangka <br />
 Referenced from [Codelab Wisata Bandung](https://www.dicoding.com/academies/159) from Dicoding
 
 ## Screenshots 📷
