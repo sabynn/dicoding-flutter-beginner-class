@@ -70,54 +70,6 @@ var tourismPlaceList = [
     ],
   ),
   TourismPlace(
-    name: 'Danau Kaolin',
-    location: 'Bangka Selatan',
-    description:
-    'Sebuah fenomena alam langka dan unik dalam bentuk kolam air beraneka warna bisa Anda temukan di Desa Nibung, Kabupaten Bangka Selatan, Provinsi Kepulauan Bangka Belitung. Danau Kaolin, begitu masyarakat setempat menyebutnya. Danau ini merupakan galian bekas tambang yang setelah bertahun-tahun ditinggalkan dan akhirnya membentuk kolam air beraneka warna',
-    openDays: 'Open Everyday',
-    openTime: '07:30 - 18:00',
-    ticketPrice: 'Free',
-    imageAsset: 'images/danau-kaolin.jpg',
-    imageUrls: [
-      'https://www.len-diary.com/wp-content/uploads/2018/01/Kaolin-Bangka-1024x683.jpg',
-      'https://asset.kompas.com/data/photo/2016/10/30/2233574Danau-Kaolin-di-lahan-bekas-tambang-timah-di-Desa-Nibung-Bangka-Selatan-Kepulauan-Bangka-Belitung-3-780x390.jpg',
-      'https://fjbbabel.com/wp-content/uploads/2020/02/kulong-biru-dan-kaolin-1.jpg',
-      'https://fjbbabel.com/wp-content/uploads/2020/02/kulong-biru-dan-kaolin-3.jpg'
-    ],
-  ),
-  TourismPlace(
-    name: 'Hutan Pelawan',
-    location: 'Bangka Tengah',
-    description:
-    'Sesuai namanya, kawasan hutan ini didominasi oleh keberadaan pohon pelawan. Pohon berkayu merah yang disebut-sebut sebagai endemik Provinsi Bangka Belitung. Di Hutan Pelawan inilah tumbuh subur jamur pelawan yang dijadikan santapan lezat saat makan bedulang alias makan bersama di saung Desa Namang.',
-    openDays: 'Open Everyday',
-    openTime: '07:00 - 18:00',
-    ticketPrice: 'Free',
-    imageAsset: 'images/hutan-pelawan.jpg',
-    imageUrls: [
-      'https://assets-a2.kompasiana.com/statics/files/1428556868781526971.jpg?t=o&v=770',
-      'https://m.radarbangka.co.id/gambar/berita/berita-menelusuri-hutan-pelawan-penghasil-madu-pahit-di-pulau-bangka-43756-l.jpg',
-      'https://www.mongabay.co.id/wp-content/uploads/2015/05/Jamur_pelawan.jpg',
-      'https://www.mongabay.co.id/wp-content/uploads/2015/05/pohon-pelawan.jpg'
-    ],
-  ),
-  TourismPlace(
-    name: 'Pulau Ketawai',
-    location: 'Bangka Tengah',
-    description:
-    'Di pulau ini pengunjung disuguhkan pemandangan pantai berpasir putih, pohon-pohon kelapa, suasana segar, dan bersih. Suasana di pulau ini membuat setiap pengunjung yang datang nyaman menghabiskan waktu bersama keluarga maupun teman.',
-    openDays: 'Open Everyday',
-    openTime: 'Open 24 Hours',
-    ticketPrice: 'Free',
-    imageAsset: 'images/ketawai.jpg',
-    imageUrls: [
-      'https://www.mall13.com/files/13/14/item_2071_314.jpg',
-      'https://www.mall13.com/files/17/07/item_2071_707.jpg',
-      'https://pbs.twimg.com/media/DrH4wkxU8AAWVPA?format=jpg&name=medium',
-      'https://backpackerjakarta.com/wp-content/uploads/2018/01/pulau-ketawai-dari-atas.jpg'
-    ],
-  ),
-  TourismPlace(
     name: 'Pagoda Puri Tri Agung',
     location: 'Bangka',
     description:
@@ -141,10 +93,10 @@ var tourismPlaceList = [
     openDays: 'Open Everyday',
     openTime: '08:00 - 18:00',
     ticketPrice: 'Rp 10000',
-    imageAsset: 'images/pantai-tongaci.JPG',
+    imageAsset: 'images/pantai-tongaci.jpg',
     imageUrls: [
       'https://t-2.tstatic.net/tribunnewswiki/foto/bank/images/pantai-tongaci-bangka-belitung.jpg',
-      'https://akcdn.detik.net.id/community/media/visual/2018/04/26/7e689c8e-cd29-4193-a4a7-403bb1e19e75.jpeg?a=1',
+      'https://akcdn.detik.net.id/community/media/visual/2018/04/26/7e689c8e-cd29-4193-a4a7-403bb1e19e75.jpeg?learn_korean_alphabet=1',
       'https://1.bp.blogspot.com/-u-YgE_uqGgs/WdTYlY5DsUI/AAAAAAAAWCQ/IND3BI6Yo8UtJUuUd2IWsNNtp-gAuqvUQCEwYBhgL/s1600/20170910_6.jpg',
       'http://cdn-2.tstatic.net/tribunnews/foto/bank/images/pantai-tongaci_20160315_083617.jpg',
     ],
@@ -163,6 +115,54 @@ var tourismPlaceList = [
       'https://2.bp.blogspot.com/-GmGpf1cORRc/WpzyjEZUXII/AAAAAAAABiM/WmzMrGyGHEEDHmtWzSJEEgmFGTNqsFOvgCLcBGAs/s1600/Screenshot_20180305-142938_crop_539x518.png',
       'http://lensabangkabelitung.com/wp-content/uploads/2020/05/IMG_20200531_055922_copy_839x629-01.jpeg',
       'https://kebabelyuk.com/public/image/package/galery/a05230643cf9303e41e06c3763f2dcdd.jpg',
+    ],
+  ),
+  TourismPlace(
+    name: 'Pulau Ketawai',
+    location: 'Bangka Tengah',
+    description:
+    'Di pulau ini pengunjung disuguhkan pemandangan pantai berpasir putih, pohon-pohon kelapa, suasana segar, dan bersih. Suasana di pulau ini membuat setiap pengunjung yang datang nyaman menghabiskan waktu bersama keluarga maupun teman.',
+    openDays: 'Open Everyday',
+    openTime: 'Open 24 Hours',
+    ticketPrice: 'Free',
+    imageAsset: 'images/ketawai.jpg',
+    imageUrls: [
+      'https://www.mall13.com/files/13/14/item_2071_314.jpg',
+      'https://www.mall13.com/files/17/07/item_2071_707.jpg',
+      'https://pbs.twimg.com/media/DrH4wkxU8AAWVPA?format=jpg&name=medium',
+      'https://backpackerjakarta.com/wp-content/uploads/2018/01/pulau-ketawai-dari-atas.jpg'
+    ],
+  ),
+  TourismPlace(
+    name: 'Hutan Pelawan',
+    location: 'Bangka Tengah',
+    description:
+    'Sesuai namanya, kawasan hutan ini didominasi oleh keberadaan pohon pelawan. Pohon berkayu merah yang disebut-sebut sebagai endemik Provinsi Bangka Belitung. Di Hutan Pelawan inilah tumbuh subur jamur pelawan yang dijadikan santapan lezat saat makan bedulang alias makan bersama di saung Desa Namang.',
+    openDays: 'Open Everyday',
+    openTime: '07:00 - 18:00',
+    ticketPrice: 'Free',
+    imageAsset: 'images/hutan-pelawan.jpg',
+    imageUrls: [
+      'https://assets-a2.kompasiana.com/statics/files/1428556868781526971.jpg?t=o&v=770',
+      'https://m.radarbangka.co.id/gambar/berita/berita-menelusuri-hutan-pelawan-penghasil-madu-pahit-di-pulau-bangka-43756-l.jpg',
+      'https://www.mongabay.co.id/wp-content/uploads/2015/05/Jamur_pelawan.jpg',
+      'https://www.mongabay.co.id/wp-content/uploads/2015/05/pohon-pelawan.jpg'
+    ],
+  ),
+  TourismPlace(
+    name: 'Danau Kaolin',
+    location: 'Bangka Selatan',
+    description:
+    'Sebuah fenomena alam langka dan unik dalam bentuk kolam air beraneka warna bisa Anda temukan di Desa Nibung, Kabupaten Bangka Selatan, Provinsi Kepulauan Bangka Belitung. Danau Kaolin, begitu masyarakat setempat menyebutnya. Danau ini merupakan galian bekas tambang yang setelah bertahun-tahun ditinggalkan dan akhirnya membentuk kolam air beraneka warna',
+    openDays: 'Open Everyday',
+    openTime: '07:30 - 18:00',
+    ticketPrice: 'Free',
+    imageAsset: 'images/danau-kaolin.jpg',
+    imageUrls: [
+      'https://www.len-diary.com/wp-content/uploads/2018/01/Kaolin-Bangka-1024x683.jpg',
+      'https://asset.kompas.com/data/photo/2016/10/30/2233574Danau-Kaolin-di-lahan-bekas-tambang-timah-di-Desa-Nibung-Bangka-Selatan-Kepulauan-Bangka-Belitung-3-780x390.jpg',
+      'https://fjbbabel.com/wp-content/uploads/2020/02/kulong-biru-dan-kaolin-1.jpg',
+      'https://fjbbabel.com/wp-content/uploads/2020/02/kulong-biru-dan-kaolin-3.jpg'
     ],
   ),
 ];

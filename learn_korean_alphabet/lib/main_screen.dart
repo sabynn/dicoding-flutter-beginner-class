@@ -104,20 +104,23 @@ class _MainScreen extends State<MainScreen> {
                   ),
                 ),
               ),
-              ElevatedButton(
-                style: ElevatedButton.styleFrom(
-                  primary: Color(0xFF0D47A1),
-                ),
-                onPressed: () {
-                  if (_formKey.currentState!.validate()) {
-                    _welcomingUser(_name);
-                  }
-                  controller.dispose();
-                },
-                child: const Text(
-                  'Submit',
-                  style: TextStyle(
-                    color: Colors.white,
+              Padding(
+                padding: const EdgeInsets.all(10.0),
+                child: ElevatedButton(
+                  style: ElevatedButton.styleFrom(
+                    primary: Color(0xFF0D47A1),
+                  ),
+                  onPressed: () {
+                    if (_formKey.currentState!.validate()) {
+                      _welcomingUser(_name);
+                    }
+                    controller.dispose();
+                  },
+                  child: const Text(
+                    'Submit',
+                    style: TextStyle(
+                      color: Colors.white,
+                    ),
                   ),
                 ),
               ),

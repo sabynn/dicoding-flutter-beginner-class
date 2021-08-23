@@ -14,9 +14,14 @@ class MainScreen extends StatelessWidget {
           final TourismPlace place = tourismPlaceList[index];
           return InkWell(
             onTap: () {
-              Navigator.push(context, MaterialPageRoute(builder: (context) {
-                return DetailScreen(place: place);
-              }));
+              Navigator.push(
+                context,
+                MaterialPageRoute(
+                  builder: (context) {
+                    return DetailScreen(place: place);
+                  },
+                ),
+              );
             },
             child: Card(
               child: Row(
@@ -24,7 +29,11 @@ class MainScreen extends StatelessWidget {
                 children: <Widget>[
                   Expanded(
                     flex: 1,
-                    child: Image.asset(place.imageAsset),
+                    child: Image.asset(
+                      place.imageAsset,
+                      height: 100,
+                      width: 100,
+                    ),
                   ),
                   Expanded(
                     flex: 2,
