@@ -1,5 +1,5 @@
 # Learn Korean Alphabet
-An app for learning korean alphabet (hangul) with korean boygroups and korean dramas as example
+An app for learning korean alphabet (hangul) with korean boygroups and korean dramas as example<br />
 This is my submission for [Flutter Beginner Class](https://www.dicoding.com/academies/159) at Dicoding Academy
 
 **Warning!** Only use this repository for study reference. Don't do plagiarism
