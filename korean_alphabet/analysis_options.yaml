@@ -5,7 +5,7 @@
 # IDEs (https://dart.dev/tools#ides-and-editors). The analyzer can also be
 # invoked from the command line by running `flutter analyze`.
 
-# The following line activates learn_korean_alphabet set of recommended lints for Flutter apps,
+# The following line activates korean_alphabet set of recommended lints for Flutter apps,
 # packages, and plugins designed to encourage good coding practices.
 include: package:flutter_lints/flutter.yaml
 
@@ -16,9 +16,9 @@ linter:
   # and their documentation is published at
   # https://dart-lang.github.io/linter/lints/index.html.
   #
-  # Instead of disabling learn_korean_alphabet lint rule for the entire project in the
-  # section below, it can also be suppressed for learn_korean_alphabet single line of code
-  # or learn_korean_alphabet specific dart file by using the `// ignore: name_of_lint` and
+  # Instead of disabling korean_alphabet lint rule for the entire project in the
+  # section below, it can also be suppressed for korean_alphabet single line of code
+  # or korean_alphabet specific dart file by using the `// ignore: name_of_lint` and
   # `// ignore_for_file: name_of_lint` syntax on the line or in the file
   # producing the lint.
   rules:

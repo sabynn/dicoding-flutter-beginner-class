@@ -96,7 +96,7 @@ var tourismPlaceList = [
     imageAsset: 'images/pantai-tongaci.jpg',
     imageUrls: [
       'https://t-2.tstatic.net/tribunnewswiki/foto/bank/images/pantai-tongaci-bangka-belitung.jpg',
-      'https://akcdn.detik.net.id/community/media/visual/2018/04/26/7e689c8e-cd29-4193-a4a7-403bb1e19e75.jpeg?learn_korean_alphabet=1',
+      'https://akcdn.detik.net.id/community/media/visual/2018/04/26/7e689c8e-cd29-4193-a4a7-403bb1e19e75.jpeg?korean_alphabet=1',
       'https://1.bp.blogspot.com/-u-YgE_uqGgs/WdTYlY5DsUI/AAAAAAAAWCQ/IND3BI6Yo8UtJUuUd2IWsNNtp-gAuqvUQCEwYBhgL/s1600/20170910_6.jpg',
       'http://cdn-2.tstatic.net/tribunnews/foto/bank/images/pantai-tongaci_20160315_083617.jpg',
     ],
