@@ -4,7 +4,7 @@ This is my submission for [Flutter Beginner Class](https://www.dicoding.com/acad
 
 ### Warning! Only use this repository for study reference. Don't do plagiarism
 
-## Screenshots 📷
+## 📷Screenshots of the app
 <p align="center">
  
 Main Screen | Input Name 
